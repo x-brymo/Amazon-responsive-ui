@@ -1,10 +1,8 @@
 # Amazon Clone
 
-Welcome to my App
+Welcome to Amazon Clone
 
-## Getting Started
-## Watch Video on youtube  
-![video](https://youtu.be/M1CYqFynnz0) 
+
 
 ## preview app
 ![preview](/p.gif)
